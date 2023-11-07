@@ -2,7 +2,9 @@
 #### a excited frontend developer
 
 - 🌱 I’m currently learning web development 
-- 📫 How to reach me: esmerertugral@gmail.com 
+- 📫 How to reach me: esmerertugral@gmail.com
+- ![250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4](https://github.com/nidaesmer/nidaesmer/assets/77460814/560decd0-aba9-46d0-bdc2-b3f1e19c488f)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nidaesmer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/niidaesmer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCsyh3YCK6eCMm4zXNJCYuyg) 
