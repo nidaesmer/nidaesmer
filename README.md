@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning web development 
 - 📫 How to reach me: esmerertugral@gmail.com
-- ![250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4](https://github.com/nidaesmer/nidaesmer/assets/77460814/560decd0-aba9-46d0-bdc2-b3f1e19c488f)
+  
+  ![250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4](https://github.com/nidaesmer/nidaesmer/assets/77460814/560decd0-aba9-46d0-bdc2-b3f1e19c488f)
 
 
 
