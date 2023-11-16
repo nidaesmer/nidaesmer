@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning web development 
 - 📫 How to reach me: esmerertugral@gmail.com
 - 
-  ![Uploading 240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif…]()
+
+![250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4](https://github.com/nidaesmer/nidaesmer/assets/77460814/31e14e38-eb99-4d9e-82a9-021e7fb0b9d6)
 
 
 
