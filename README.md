@@ -1,4 +1,4 @@
-![241765453-85cb9521-97c0-4a65-9358-7db8099fac7f](https://github.com/nidaesmer/nidaesmer/assets/77460814/022ab73c-e030-429d-97d4-a746d84b388b)
+
 ### Hi there 👋, I'm esmer
 #### a excited frontend developer
 
