@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I'm esmer
-#### a excited frontend developer
+#### a excited software developer
 
 - 🌱 I’m currently learning web development 
 - 📫 How to reach me: esmerertugral@gmail.com
